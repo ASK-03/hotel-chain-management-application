@@ -61,6 +61,9 @@ Ensures that a single instance of the database connection is used throughout the
 
 The instantiation of DAOs and services is centralized in the `Main.java` class. This pattern could be abstracted further using a factory method or dependency injection container.
 
+
+![img.png](assets/img.png)
+
 ---
 
 ## Features
